@@ -1,2 +1,3 @@
-ab cd
-ef gh
+abc|def|123
+jkl|def|456
+mno|abc|123
